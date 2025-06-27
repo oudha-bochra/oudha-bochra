@@ -38,3 +38,11 @@ I will be uploading them soon — stay tuned!
 - - 💼 [LinkedIn](https://www.linkedin.com/in/oudha-bochra)
 
 - 💬 I'm open to research opportunities, collaboration, or simply networking!
+  
+
+### 📈 GitHub Stats
+
+![Bouchra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oudha-bochra&show_icons=true&theme=tokyonight&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oudha-bochra&layout=compact&theme=tokyonight)
+
