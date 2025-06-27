@@ -26,8 +26,15 @@
 ![FluidSIM](https://img.shields.io/badge/FluidSIM-B03A2E?style=flat&logo=bosch&logoColor=white)
 ![Xilinx](https://img.shields.io/badge/Xilinx-8E44AD?style=flat&logo=xilinx&logoColor=white)
 
-
 ### 🚀 Projects
 
 I'm currently working on academic and personal projects related to embedded systems and AI.  
 I will be uploading them soon — stay tuned!
+---
+
+### 📫 Contact Me
+
+- 📧 Email: oudhabochra@gmail.com
+- - 💼 [LinkedIn](https://www.linkedin.com/in/oudha-bochra)
+
+- 💬 I'm open to research opportunities, collaboration, or simply networking!
