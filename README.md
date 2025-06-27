@@ -13,3 +13,10 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+I'm currently working on academic and personal projects related to embedded systems and AI.  
+I will be uploading them soon — stay tuned!
