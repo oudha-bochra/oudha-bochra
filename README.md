@@ -30,7 +30,7 @@
 
 I'm currently working on academic and personal projects related to embedded systems and AI.  
 I will be uploading them soon — stay tuned!
----
+
 
 ### 📫 Contact Me
 
