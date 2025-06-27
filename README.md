@@ -17,6 +17,10 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=arm)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+
 #### ⚙️ Simulation & Development Tools
 
 ![Proteus](https://img.shields.io/badge/Proteus-2E86C1?style=flat&logo=visualstudio&logoColor=white)
@@ -25,6 +29,8 @@
 ![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-5D6D7E?style=flat&logo=texasinstruments&logoColor=white)
 ![FluidSIM](https://img.shields.io/badge/FluidSIM-B03A2E?style=flat&logo=bosch&logoColor=white)
 ![Xilinx](https://img.shields.io/badge/Xilinx-8E44AD?style=flat&logo=xilinx&logoColor=white)
+
+
 
 ### 🚀 Projects
 
